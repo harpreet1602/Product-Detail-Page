@@ -1,0 +1,147 @@
+.mainpage{
+    background-color: #f8f8f8;
+    width: 70%;
+    height: 45rem;
+}
+.mainhead{
+    display: flex;
+    flex-direction: row;
+    height: 3rem;
+    padding-top: 1%;
+    padding-left: 5%;
+
+}
+.dowicn{
+    position: relative;
+    top: -16px;
+    left: 170px;
+}
+.mainhead2{
+    margin-left: 100px;
+}
+.prodname{
+    margin-left: 35px;
+    font-size: 2rem;
+    font-weight: 500;
+}
+.hearticn{
+    color:red;
+    position: relative;
+    top: -30px;
+    left: 800px;
+}
+.prodtext{
+    margin-left: 35px;
+    margin-top: -15px;
+    font-weight: 100;
+}
+.prodline{
+    margin-left: 35px;
+    margin-top: 40px;
+}
+.prodline i{
+    color:red;
+    margin-right:10px;
+}
+.review{
+    margin-left: 30px;
+}
+.review span{
+    margin-left: 10px;
+    color: grey;
+}
+
+.rbuild{
+    margin-left: 100px;
+    text-decoration: underline;
+    color: red;
+}
+.rrate{
+    margin-left: 150px;
+    font-size: 1.5rem;
+}
+.rrate span{
+    font-size: 1rem;
+}
+
+.pdesc{
+    margin-left: 250px;
+    margin-top: 80px;
+}
+.phead{
+    font-size: 1.5rem;
+    margin-bottom: 2rem;
+}
+.ptext{
+    width:40rem;
+    font-weight:100;
+}
+.available{
+    margin-left: 250px;
+    margin-top: 3rem;
+    font-size: 1.1rem;
+    display: flex;
+}
+.aq{
+    margin-left: 70px;
+
+}
+
+
+.red{
+    color: red;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.aq{
+    display: flex;
+}
+.aqbox{
+   background: white;
+   width: 2rem;
+   height: 1.5rem;
+   text-align: center;
+}
+
+
+.ac{
+    background: red;
+    color: white;
+    width: 10rem;
+    height: 2.5rem;
+    font-weight: 800;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50px;
+    margin-top: -10px;
+    margin-left: 100px;
+}
+.spec{
+    margin-left: 250px;
+    margin-top: 2.5rem;
+
+}
+
+.s1{
+    margin-right: 150px;
+}
+.s2{
+    margin-right: 150px;
+}
+.horc{
+    display:flex;
+}
+.hor{
+    margin-left: 250px;
+    margin-top: 1rem;
+    background-color: red;
+    height: 0.4rem;
+    width: 10rem;
+}
+.hor1{
+    height: 0.4rem;
+    width: 27rem;
+    margin-top: 1rem;
+    background-color: black;
+}

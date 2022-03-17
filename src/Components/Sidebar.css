@@ -1,0 +1,74 @@
+.sidebar{
+    width: 30%;
+    background: #dde8ea;
+    height: 45rem;
+    border-radius: 0px 0px 10px 10px;
+}
+.sidehead{
+    height: 3rem;
+    margin-left: 20%;
+    padding-top: 3%;
+}
+
+.tags{
+    margin-left: 20%;
+}
+
+.tagtext{
+    font-size: 1.4rem;
+
+}
+
+.tagcont{
+    width: 7rem;
+    background: white;
+    height:3rem;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    border-radius: 50px;
+    margin-right: 1rem;
+    
+    margin-top:1rem;
+}
+.angicn{
+    margin-left: 33%;
+}
+
+.uppertag{
+    display:flex;
+}
+
+.l{
+    width: 9rem;
+}
+
+.images img{
+    height: 5rem;
+    width: 5rem;
+    border-radius: 10px;
+    margin-bottom: 0.5rem;
+}
+.images{
+    margin-left: 25%;
+    margin-top: 2rem;
+}
+
+.active{
+    border: 3px solid white;
+}
+
+.largeimg{
+    height: 25rem;
+    width: 25rem;
+    border-radius: 20px;
+
+    margin-left: 30px;
+    z-index: 10;
+}
+.contim{
+    display:flex;
+}
+@media (max-width: 1380px) {
+    
+}
